@@ -1,0 +1,1 @@
+It is a TamperMonkey script that modifies youtube preview volume so your ears don't get destroyed. You can change the volume in the code. As an added bonus it also disables the preview subtitles. Of course you can change it by removing disableSubtitles() function.
